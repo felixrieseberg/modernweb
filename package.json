@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "start": "electron ."
   },
   "author": "Felix Rieseberg <felix@felixrieseberg.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "2.0.5"
+  }
 }
