@@ -1,0 +1,11 @@
+{
+  "name": "modernweb-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Felix Rieseberg <felix@felixrieseberg.com>",
+  "license": "ISC"
+}
