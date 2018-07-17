@@ -15,5 +15,8 @@
   },
   "config": {
     "forge": {}
+  },
+  "dependencies": {
+    "monaco-loader": "^0.13.0"
   }
 }
